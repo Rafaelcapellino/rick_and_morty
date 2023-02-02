@@ -1,0 +1,6 @@
+.barra {
+  display: flex;
+  position: fixed;
+  margin-top: 4%;
+  z-index: 2;
+}
